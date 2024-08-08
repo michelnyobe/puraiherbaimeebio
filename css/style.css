@@ -1,0 +1,25 @@
+.duo {
+ margin-top: 4px;
+ font-size: 500px;
+}
+.titre-01 {
+    color: green;
+}
+.titre-02 {
+    color: white;
+}
+.icon-01{
+    padding-bottom: 30px;
+}
+.arrondit {
+    border-radius: 10px;
+}
+#whatsapp_icon{
+    position: fixed;
+    position: fixed;
+    bottom: 25px;
+    right: 10px;
+   
+
+    
+}
